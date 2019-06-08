@@ -6,6 +6,7 @@ CollabFilter - Jester:
 
 	`The dataset used is a smaller version of actual Jester with ratings only from 2000 users.`
 
+----
 
 CollabLibrary - Jester:   
 * Jupyter Notebook that uses two libraries for Collabrative Filtering.
@@ -17,6 +18,8 @@ CollabLibrary - Jester:
 
 
 	`The dataset used is a smaller version of actual Jester with ratings only from 2000 users.`
+
+----
 
 ContentBased - MovieLens:
 * My first attempt Jupyter Notebook in exploring Recomendation Systems
